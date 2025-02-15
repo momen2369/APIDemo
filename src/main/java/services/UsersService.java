@@ -25,6 +25,6 @@ public class UsersService extends BaseService{
     }
 
     public Response deleteUser(int id) {
-        return deleteRequest(configReader.getProperty("updateUserEndpoint"), id);
+        return deleteRequest(configReader.getProperty("deleteUserEndpoint"), id);
     }
 }
