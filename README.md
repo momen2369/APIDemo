@@ -68,3 +68,7 @@ Run the tests:
 ```sh
 mvn test
 ```
+
+## 📸 Screenshots
+<img width="1333" alt="image" src="https://github.com/user-attachments/assets/89d3c86f-7482-434b-939b-9af7e9aa500e" />
+
