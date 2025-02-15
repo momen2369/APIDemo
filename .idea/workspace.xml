@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6aacf393-6ea4-43a1-a122-6c3341047bdc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/BaseService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/UsersService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/models/FullUserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/models/FullUserData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/models/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/models/UserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/usersTests/UsersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/usersTests/UsersTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/properties" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="services" />
     </key>

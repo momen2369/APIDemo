@@ -4,9 +4,9 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import utils.models.User;
 
-public class UsersService extends BaseService{
+public class UsersService extends BaseService {
 
-    public UsersService () {
+    public UsersService() {
         RestAssured.baseURI = configReader.getProperty("baseUri");
 
     }
@@ -20,7 +20,7 @@ public class UsersService extends BaseService{
     }
 
     public Response updateUserById(int id, User user) {
-        return  putRequest(configReader.getProperty("updateUserEndpoint"), id, user);
+        return putRequest(configReader.getProperty("updateUserEndpoint"), id, user);
 
     }
 
